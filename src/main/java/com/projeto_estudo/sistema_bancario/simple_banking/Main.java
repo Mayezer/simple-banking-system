@@ -1,4 +1,4 @@
-package com.projeto_estudo.sistema_bancario;
+package com.projeto_estudo.sistema_bancario.simple_banking;
 
 import java.util.Scanner;
 
